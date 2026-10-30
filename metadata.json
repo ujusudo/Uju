@@ -1,0 +1,7 @@
+{
+  "name": "NESYRINGE AI",
+  "description": "Intelligent medical & health-science study companion for Nigerian university students from 100L to final year.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
